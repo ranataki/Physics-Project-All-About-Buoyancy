@@ -1,7 +1,5 @@
 # Physics Project: All About Buoyancy
 
-This is the third prototype of my physics project. It will be updated through time.
-
 ## Usage
 
 Download the buoyancy.zip file and open it in Xcode.
